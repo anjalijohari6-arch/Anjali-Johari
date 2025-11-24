@@ -5,10 +5,10 @@ I’m an aspiring Data Analyst passionate about turning raw data into clear, act
 
 ---
 
-## 🔎 Quick summary
+## 🔎 About Me
 - Role: **Aspiring Data Analyst**  
 - Focus areas: Data cleaning, exploratory data analysis (EDA), dashboarding, reporting, and basic predictive analytics.  
-- Current tools: **Advanced Excel**, **Power BI**, **Python**, **SQL**.  
+- Tools: **Advanced Excel**, **Power BI**, **Python**, **SQL**.  
 - Analytics types: **Descriptive Analytics**, **Inferential Analytics**.
 
 ---
