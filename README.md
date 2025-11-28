@@ -35,6 +35,22 @@ Tools & Technologies
 
 📑 Reporting & Storytelling
 
+---
+
+## Certifications
+
+- **NASSCOM certified Data Analyst**
+<img width="639" height="890" alt="3FADXAAG" src="https://github.com/user-attachments/assets/cef16744-b2a2-401f-8aba-8c6f29be4acb" />
+
+- **SQL: Beginner to Advanced**
+<img width="1105" height="747" alt="3E60AVAY" src="https://github.com/user-attachments/assets/5852033b-d19f-4e37-9fc4-378214cec294" />
+
+- **Excel: Beginner to Advanced**
+<img width="1300" height="882" alt="8E4BMEFN" src="https://github.com/user-attachments/assets/9d79b98b-9e35-4f90-9c40-c887c72184d0" />
+
+
+
+
 ## 📬 Contact Me
 
 📧 Email: anjalijohari6@gmail.com
